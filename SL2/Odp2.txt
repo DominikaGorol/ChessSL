@@ -1,0 +1,9 @@
+ocenaD:Ocena elementów: 1.Poprawna-istotny
+2.Poprawna-istotny
+3.Poprawna-istotny
+4.Poprawna-istotny
+5.Poprawna-istotny
+6.Poprawna-istotny
+7.Poprawna-istotny
+8.Poprawna-istotny
+9.Poprawna-istotny##### Ocena kandydatów: Nie, wszystkie istotne ruchy zostały uwzględnione.##### Ocena wariantu: Sądzę, że gracz znalazł ciekawy plan i może być on najlepszy w danej pozycji.ocenaD:Ocena elementów: ##### Ocena kandydatów: ##### Ocena wariantu: ocenaD:Ocena elementów: ##### Ocena kandydatów: ##### Ocena wariantu: 

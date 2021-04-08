@@ -1,0 +1,7 @@
+Trzeba zagraæ dynamicznie, nie dopuœciæ do rozwoju cza-rnych figur i wykorzystaæ piona d5 jako si³ê, nie s³a- boœæ. Wde1 pozwala zachowaæ bardzo silne centrum oraz  silny atak na króla (groŸba Ge4). Dodatkowo, nie pozwa-la czarnym na ³atwe manewrowanie i rozwój (np.Hd7).
+
+1.Wed1 fxe5 2.fxe5 Sd7 3.e6 Sf6 4.Wxf6 gf6 5.Hf5
+5... Hd8 6.We4 He7 7.Wg4 Kh8 8.Ge4 Wc8 9.Wh4 Wc7 10.Gf4
+5... We7 6.d6 Gxg2 7.dxe7 Gxe7 8.Kxg2
+5... Hc7 6.We4 Wad8 7.Wg4+ Kh8 8.Wh4 Gxd5 9.Gxd5 Wxd5 
+10.Hxd5 He7 11.Hf5 Wc8 12.Ga5 +-
